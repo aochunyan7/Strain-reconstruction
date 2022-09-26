@@ -1,0 +1,8 @@
+The demo is an numerical example of the study in paper " Non-contact full-field dynamic strain reconstruction of rotating blades under multi-mode vibration" published in MSSP.
+The demo is coded in MATLAB.
+The demo includes the response decoupling and strain reconstruction programs.
+All the essential data are given in Demo_data.mat (available at https://drive.google.com/file/d/1-6Sbv7fMegGTl0OLku-oIoDLgJNU1tdO/view?usp=sharing).
+Because I don't know which finite element software you are using now (e.g., ANSYS APDL, Workbench, ABAQUS, MSC), the FE model coordinate data are given in Node_coordinate.txt for you to realize strain distribution visualization using the full-field data calculated with the MATLAB demo.
+If you have some suggestions or found bugs, you can send me email. I greatly acknowledge your any  advices, which will make this software better. And I will do my best to improve it. My email address is 'aochunyan7@163.com'.
+
+Thank you for reading it again.
